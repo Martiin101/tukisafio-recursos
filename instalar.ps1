@@ -62,7 +62,7 @@ try {
   @{ n = 'CustomPlayerModels-1.20-0.6.27a.jar'; u = 'https://cdn.modrinth.com/data/h1E7sQNL/versions/BZZSHBbA/CustomPlayerModels-1.20-0.6.27a.jar'; s = '4652dee093c796799756f5f6c89314c6d601ae65' }
   @{ n = 'Pehkui-3.8.2+1.20.1-forge.jar'; u = 'https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar'; s = '4bc816efdd8e5e2a97423313674401351710e403' }
   @{ n = 'dedsafio3-fan.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/dedsafio3-fan.jar'; s = '8d55b74989b38efbf7e46878f761693f061ba014' }
-  @{ n = 'TukiCielo-1.20.1.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/TukiCielo-1.20.1.jar'; s = 'b6ef827605bea3438ece69a73aed3604ad1f0ee8' }
+  @{ n = 'TukiCielo-1.20.1.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/TukiCielo-1.20.1.jar'; s = '9d73401497f7928d79a0c5c89697bbe9d33f8be8' }
   )
   $carpeta = Join-Path $mc 'mods'
   New-Item -ItemType Directory -Force -Path $carpeta | Out-Null
