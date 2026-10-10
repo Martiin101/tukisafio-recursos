@@ -61,8 +61,8 @@ try {
   @{ n = 'geckolib-forge-1.20.1-4.8.4.jar'; u = 'https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar'; s = '50e1407869ef0e909e3bdda9328b8bd7db03fdc0' }
   @{ n = 'CustomPlayerModels-1.20-0.6.27a.jar'; u = 'https://cdn.modrinth.com/data/h1E7sQNL/versions/BZZSHBbA/CustomPlayerModels-1.20-0.6.27a.jar'; s = '4652dee093c796799756f5f6c89314c6d601ae65' }
   @{ n = 'Pehkui-3.8.2+1.20.1-forge.jar'; u = 'https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar'; s = '4bc816efdd8e5e2a97423313674401351710e403' }
-  @{ n = 'dedsafio3-fan.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/dedsafio3-fan.jar'; s = '8d55b74989b38efbf7e46878f761693f061ba014' }
-  @{ n = 'TukiCielo-1.20.1.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/TukiCielo-1.20.1.jar'; s = '3392727dcb3e3ffb4b4569dbdd8232bd70617992' }
+  @{ n = 'dedsafio3-fan.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/dedsafio3-fan.jar'; s = '3fbfb935949c1938eaf6ac7e9f3dbfa4f5083d12' }
+  @{ n = 'TukiCielo-1.20.1.jar'; u = 'https://github.com/Martiin101/tukisafio-recursos/releases/download/cliente-2026-10-08/TukiCielo-1.20.1.jar'; s = 'c235ae6760c1a33f6bc916570869fce78ceffdcc' }
   )
   $carpeta = Join-Path $mc 'mods'
   New-Item -ItemType Directory -Force -Path $carpeta | Out-Null
