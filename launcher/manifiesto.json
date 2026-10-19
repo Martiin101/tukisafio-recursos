@@ -1,0 +1,169 @@
+{
+ "version_launcher": 1,
+ "launcher_url": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/Tukisafio.exe",
+ "launcher_sha1": "c29c7ca80bae735645598e6dadfad11a26ffc042",
+ "servidor": {
+  "nombre": "Tukisafio",
+  "ip": "irvine-penalty.tun.ply.gg",
+  "ping": "irvine-penalty.tun.ply.gg:49601"
+ },
+ "minecraft": "1.20.1",
+ "forge": {
+  "id": "1.20.1-forge-47.3.22",
+  "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.3.22/forge-1.20.1-47.3.22-installer.jar",
+  "sha1": "a4620a69b9075fb543ae3efaff3690c76cd45844"
+ },
+ "java": {
+  "carpeta": "jdk-17.0.20.1+1-jre",
+  "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jre_x64_windows_hotspot_17.0.20.1_1.zip",
+  "sha256": "bc21a93923103cdaac93ee337b0ae4365e739fde36df823dd456bc67c8a9d352"
+ },
+ "mods": [
+  {
+   "n": "Clumps-forge-1.20.1-12.0.0.4.jar",
+   "u": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar",
+   "s": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c"
+  },
+  {
+   "n": "CustomPlayerModels-1.20-0.6.27a.jar",
+   "u": "https://cdn.modrinth.com/data/h1E7sQNL/versions/BZZSHBbA/CustomPlayerModels-1.20-0.6.27a.jar",
+   "s": "4652dee093c796799756f5f6c89314c6d601ae65"
+  },
+  {
+   "n": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+   "u": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+   "s": "27d58f123951e0404c94caf16ff9b96b442f371c"
+  },
+  {
+   "n": "Pehkui-3.8.2+1.20.1-forge.jar",
+   "u": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar",
+   "s": "4bc816efdd8e5e2a97423313674401351710e403"
+  },
+  {
+   "n": "TukiCielo-1.20.1.jar",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/TukiCielo-1.20.1.jar",
+   "s": "98473da716be72dee068b2f4e195d8b42f585fdd"
+  },
+  {
+   "n": "balm-forge-1.20.1-7.3.44.jar",
+   "u": "https://cdn.modrinth.com/data/MBAkmtvl/versions/dDN38ae7/balm-forge-1.20.1-7.3.44.jar",
+   "s": "dae7e647fc54609e66e4f910931be65776352b72"
+  },
+  {
+   "n": "cloth-config-11.1.136-forge.jar",
+   "u": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+   "s": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+  },
+  {
+   "n": "cosmetics-1.0.0.jar",
+   "u": "https://cdn.modrinth.com/data/vu2MhHQK/versions/ZUntjOqO/cosmetics-1.0.0.jar",
+   "s": "ac4014c0e44202ca20bbae4bb1d488cf1142beea"
+  },
+  {
+   "n": "dedsafio3-fan.jar",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/dedsafio3-fan.jar",
+   "s": "c0dc20cdda3d81d4fb17de4eb0efcaa2f514cabd"
+  },
+  {
+   "n": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+   "u": "https://cdn.modrinth.com/data/7YjclEGc/versions/Yyh6uR59/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
+   "s": "422cd454bf4bc662c146a4ca598fbc6b3e870ee8"
+  },
+  {
+   "n": "embeddium-0.3.31+mc1.20.1.jar",
+   "u": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+   "s": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+  },
+  {
+   "n": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+   "u": "https://cdn.modrinth.com/data/pZ2wrerK/versions/2f5mEUPY/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+   "s": "fcff067375cfe917cbf235218f49ceb58e598a5c"
+  },
+  {
+   "n": "entityculling-forge-1.11.3-mc1.20.1.jar",
+   "u": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar",
+   "s": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55"
+  },
+  {
+   "n": "ferritecore-6.0.1-forge.jar",
+   "u": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+   "s": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+  },
+  {
+   "n": "geckolib-forge-1.20.1-4.8.4.jar",
+   "u": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar",
+   "s": "50e1407869ef0e909e3bdda9328b8bd7db03fdc0"
+  },
+  {
+   "n": "immersive-portals-3.0.7-all.jar",
+   "u": "https://cdn.modrinth.com/data/zf4Szzx2/versions/Q6Z7eOLL/immersive-portals-3.0.7-all.jar",
+   "s": "b4a6d71ca7dc07a1da33e7272befabc6ce95057b"
+  },
+  {
+   "n": "immersive_paintings-0.6.13+1.20.1-forge.jar",
+   "u": "https://cdn.modrinth.com/data/6txNkua3/versions/DYpJU8lA/immersive_paintings-0.6.13%2B1.20.1-forge.jar",
+   "s": "3f2a668f2235a6a908fde545d140013456b5412f"
+  },
+  {
+   "n": "memoryleakfix-forge-1.17+-1.1.5.jar",
+   "u": "https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar",
+   "s": "9f60142dd94631800386a16a4ad70ad9e84cd78a"
+  },
+  {
+   "n": "oculus-mc1.20.1-1.8.0.jar",
+   "u": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+   "s": "984f774e71790deaec674c7587bd24e0711871b2"
+  },
+  {
+   "n": "ok_zoomer-forge-5.4.0-beta.9.jar",
+   "u": "https://cdn.modrinth.com/data/aXf2OSFU/versions/8M3vtEOe/ok_zoomer-forge-5.4.0-beta.9.jar",
+   "s": "68578eb7a2bb2f7c1eba041d67e558ebe5e63414"
+  },
+  {
+   "n": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+   "u": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+   "s": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+  },
+  {
+   "n": "torohealth-1.20.1-forge-1.jar",
+   "u": "https://cdn.modrinth.com/data/FZGNeNIO/versions/ovWvJ3oj/torohealth-1.20.1-forge-1.jar",
+   "s": "da6d23a8e0d6cfd5de195c2eb46d0d67eea04bab"
+  },
+  {
+   "n": "trashslot-forge-1.20.1-15.1.5.jar",
+   "u": "https://cdn.modrinth.com/data/vRYk0bv7/versions/r0K8IYd7/trashslot-forge-1.20.1-15.1.5.jar",
+   "s": "31e3469cb88841cbaca4fb963bc9e4a1db6f8f4f"
+  },
+  {
+   "n": "voicechat-forge-1.20.1-2.6.24.jar",
+   "u": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lWvbAZ3P/voicechat-forge-1.20.1-2.6.24.jar",
+   "s": "439106dd91d6c9bd31431c31497332cfde57ab98"
+  }
+ ],
+ "archivos": [
+  {
+   "ruta": "config/immersive_portals.json",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/config_immersive_portals.json",
+   "s": "985279f48c74f760610c82c2163aaf03e42f6fab",
+   "modo": "siempre"
+  },
+  {
+   "ruta": "config/torohealth.json",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/config_torohealth.json",
+   "s": "c8f388e6835ddb1f5c3fefe787d4483924d725a6",
+   "modo": "si-falta"
+  },
+  {
+   "ruta": "config/embeddium-options.json",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/config_embeddium-options.json",
+   "s": "5e347eeab5caaf59c89d3dee2eb4cc9b373c82ae",
+   "modo": "si-falta"
+  },
+  {
+   "ruta": "options.txt",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/options.txt",
+   "s": "98eab374518ec47aca33b02c6539df973f67cd31",
+   "modo": "si-falta"
+  }
+ ]
+}
