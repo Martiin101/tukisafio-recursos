@@ -42,7 +42,12 @@
   {
    "n": "TukiCielo-1.20.1.jar",
    "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/TukiCielo-1.20.1.jar",
-   "s": "98473da716be72dee068b2f4e195d8b42f585fdd"
+   "s": "07418c43133b9a5717a3ef5c536db83fe17d2cfc"
+  },
+  {
+   "n": "TukiCielo-arte-1.20.1.jar",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/TukiCielo-arte-1.20.1.jar",
+   "s": "ac3016e994ddf9afd41e7ac2dacba6ff53f455d7"
   },
   {
    "n": "balm-forge-1.20.1-7.3.44.jar",
@@ -164,6 +169,12 @@
    "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/options.txt",
    "s": "98eab374518ec47aca33b02c6539df973f67cd31",
    "modo": "si-falta"
+  },
+  {
+   "ruta": "tukisafio/Tukisafio-RP.zip",
+   "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/tukisafio_Tukisafio-RP.zip",
+   "s": "53a9d81ab41cd6ec31104104fc40cded37d1ac50",
+   "modo": "siempre"
   }
  ]
 }
