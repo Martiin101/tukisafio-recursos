@@ -1,12 +1,13 @@
 {
- "version_launcher": 3,
+ "version_launcher": 4,
  "launcher_url": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/Tukisafio.exe",
- "launcher_sha1": "658741e3f1cc67a8734394b8ab83d07f450c4334",
+ "launcher_sha1": "ff8b5d0dab21aff4c05f5d26e55676c3d5ba8688",
  "servidor": {
   "nombre": "Tukisafio",
   "ip": "irvine-penalty.tun.ply.gg",
   "ping": "irvine-penalty.tun.ply.gg:49601"
  },
+ "discord": "https://discord.gg/nWEqtCkhF",
  "minecraft": "1.20.1",
  "forge": {
   "id": "1.20.1-forge-47.3.22",
