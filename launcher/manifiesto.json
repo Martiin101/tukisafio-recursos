@@ -1,7 +1,7 @@
 {
- "version_launcher": 2,
+ "version_launcher": 3,
  "launcher_url": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/Tukisafio.exe",
- "launcher_sha1": "404df8ee3a6677aff2070426349da09cf22f5db2",
+ "launcher_sha1": "658741e3f1cc67a8734394b8ab83d07f450c4334",
  "servidor": {
   "nombre": "Tukisafio",
   "ip": "irvine-penalty.tun.ply.gg",
@@ -67,7 +67,7 @@
   {
    "n": "dedsafio3-fan.jar",
    "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/dedsafio3-fan.jar",
-   "s": "c0dc20cdda3d81d4fb17de4eb0efcaa2f514cabd"
+   "s": "8f3a85c3eef90d54f478f04a314f1a9d62a8b981"
   },
   {
    "n": "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
