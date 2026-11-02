@@ -1,7 +1,7 @@
 {
- "version_launcher": 4,
+ "version_launcher": 5,
  "launcher_url": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/Tukisafio.exe",
- "launcher_sha1": "ff8b5d0dab21aff4c05f5d26e55676c3d5ba8688",
+ "launcher_sha1": "0bbd40fb8492fa9b3308043b894b0ef8420e0166",
  "servidor": {
   "nombre": "Tukisafio",
   "ip": "irvine-penalty.tun.ply.gg",
@@ -43,7 +43,7 @@
   {
    "n": "TukiCielo-1.20.1.jar",
    "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/TukiCielo-1.20.1.jar",
-   "s": "9af40fb0ab9278e149ffd9e80aac26887d5b77eb"
+   "s": "9b9c68c12e7d2f38eabefd1dde0b273cc1146e9e"
   },
   {
    "n": "TukiCielo-arte-1.20.1.jar",
