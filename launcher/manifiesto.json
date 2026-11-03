@@ -1,7 +1,7 @@
 {
- "version_launcher": 5,
+ "version_launcher": 6,
  "launcher_url": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/Tukisafio.exe",
- "launcher_sha1": "0bbd40fb8492fa9b3308043b894b0ef8420e0166",
+ "launcher_sha1": "190548035dfd8259b10df323af34982cec705a6d",
  "servidor": {
   "nombre": "Tukisafio",
   "ip": "irvine-penalty.tun.ply.gg",
