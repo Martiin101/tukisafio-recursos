@@ -1,13 +1,14 @@
 {
- "version_launcher": 7,
+ "version_launcher": 8,
  "launcher_url": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/Tukisafio.exe",
- "launcher_sha1": "d5661b4e06992d2179fa3cde64b31036e8531e4a",
+ "launcher_sha1": "b7e85baba8d54627a4976e2df7de9289b76053ab",
  "servidor": {
   "nombre": "Tukisafio",
   "ip": "irvine-penalty.tun.ply.gg",
   "ping": "irvine-penalty.tun.ply.gg:49601"
  },
  "discord": "https://discord.gg/a2w7hDj5mQ",
+ "estado_url": "https://raw.githubusercontent.com/Martiin101/tukisafio-recursos/main/launcher/estado.json",
  "minecraft": "1.20.1",
  "forge": {
   "id": "1.20.1-forge-47.3.22",
