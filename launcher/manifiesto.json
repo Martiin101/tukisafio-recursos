@@ -44,7 +44,7 @@
   {
    "n": "TukiCielo-1.20.1.jar",
    "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/TukiCielo-1.20.1.jar",
-   "s": "d072cf0ad73ba97452ed17102873a1e6dbada649"
+   "s": "5e9dca840a47362ff1f0ca7d17f78e4f2c0ef4a8"
   },
   {
    "n": "TukiCielo-arte-1.20.1.jar",
@@ -60,11 +60,6 @@
    "n": "cloth-config-11.1.136-forge.jar",
    "u": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
    "s": "c65d07748acc57ceb45d53b3964368b84f34d54f"
-  },
-  {
-   "n": "cosmetics-1.0.0.jar",
-   "u": "https://cdn.modrinth.com/data/vu2MhHQK/versions/ZUntjOqO/cosmetics-1.0.0.jar",
-   "s": "ac4014c0e44202ca20bbae4bb1d488cf1142beea"
   },
   {
    "n": "dedsafio3-fan.jar",
@@ -145,6 +140,11 @@
    "n": "voicechat-forge-1.20.1-2.6.24.jar",
    "u": "https://cdn.modrinth.com/data/9eGKb6K1/versions/lWvbAZ3P/voicechat-forge-1.20.1-2.6.24.jar",
    "s": "439106dd91d6c9bd31431c31497332cfde57ab98"
+  },
+  {
+   "n": "xaerominimap-forge-1.20.1-26.6.0.jar",
+   "u": "https://cdn.modrinth.com/data/1bokaNcj/versions/dB6E0CY9/xaerominimap-forge-1.20.1-26.6.0.jar",
+   "s": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa"
   }
  ],
  "archivos": [
@@ -175,7 +175,7 @@
   {
    "ruta": "tukisafio/Tukisafio-RP.zip",
    "u": "https://github.com/Martiin101/tukisafio-recursos/releases/download/launcher-1/tukisafio_Tukisafio-RP.zip",
-   "s": "5d05f033fcd7fd12bcc1d01c10e58281f902565f",
+   "s": "6b35ac5ef29d3196b9ae2b6d543bb2ba70020b09",
    "modo": "siempre"
   },
   {
